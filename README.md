@@ -43,4 +43,5 @@ Isliye maine ek simple expense tracker banaya jisse daily expenses track kar sak
 - Dark mode
 
 ## Screenshot
-(Add your own screenshot here)
+
+![App Screenshot](preview.png)
